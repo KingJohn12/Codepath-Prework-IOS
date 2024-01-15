@@ -21,6 +21,20 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+Reddit and TikTok
+
+    Reddit
+    
+    A Block Button for users.
+    In addition, some of the features that we're added by mods should return back.
+    Allow you to use your photos from your phone.
+    They should have a privacy notices for any nsfw subreddits.
+    
+    
+    TikTok
+    History functional similar to Windows
+    
+
 ## Notes
 
 Describe any challenges encountered while building the app.
